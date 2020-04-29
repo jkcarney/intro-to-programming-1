@@ -1,0 +1,19 @@
+four      score   and
+
+seven               years ago         our
+            
+fathers brought             forth
+    on this          continent
+a         new
+            
+nation
+then your method should produce the following output:
+four score and
+            
+seven years ago our
+            
+fathers brought forth
+on this continent
+a new
+            
+nation
